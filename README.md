@@ -1,4 +1,4 @@
-# SetupLarryWillians
+# Setup Larry Willians
 Setup Larry Willians (detalhes em https://www.youtube.com/watch?v=QXzkrR-dX1E
 
 ***Este script executa o setup LW de 3 médias móveis SMA21(fechamento) SMA3(max) e SMA3(min). O script usa com arquivos de entrada os arquivos CSV gerados pelo Tryd (homebroker). Os arquivos salvos pelo Tryd deverão estar no formato <TICKER_B3>_Tryd.csv (exemplo: ABEV3_Tryd.csv)***
