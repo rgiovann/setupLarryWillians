@@ -10,7 +10,7 @@ Este scripts le os arquivos gerados pelo Tryd e os converte em tabelas que são 
 
 **QuantLarryWilliansSetup3Medias.py**
 
-#############     PARÂMETROS DE CONFIGURACAO     ###############################################################
+#############     PARÂMETROS DE CONFIGURACAO     ################
 
 - LISTA_B3 = {"NEOE3","ITSA4"}     # lista de ativos csv que vou pegar os dados no diretório DIR_ENTRADA (TICKER DA B3!!)
 - MEDIA_LONGA = 21           # parametro média longa
@@ -20,7 +20,7 @@ Este scripts le os arquivos gerados pelo Tryd e os converte em tabelas que são 
 - DIR_ENTRADA = "ENTRADA"    # nome do diretório que vc vai criar antes de rodar o script, para popular com os arquivos salvos do Tryd default é "ENTRADA"
 - DIR_SAIDA = "SAIDA"        # nome do diretório que vc vai criar antes de rodar o script, que estão os arquivos com os resultados do backtest default é "SAIDA"
 
-##########################################################################################################  
+#############################################################
 
 O resultado do backtest é armazenado em arquivo de log (com todos os ativos) e planilha csv (por ativo)
 
